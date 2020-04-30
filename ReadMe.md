@@ -1,16 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.2'
-      jupytext_version: 1.4.2
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
----
 
 <!-- #region id="t0LoK7eSDi2n" colab_type="text" -->
 # Cat-Breed Classifier Using CNN
