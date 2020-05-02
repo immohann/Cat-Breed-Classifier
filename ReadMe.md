@@ -71,7 +71,7 @@ valid_p_dir=os.path.join(validation_dir,'persian')
 valid_t_dir=os.path.join(validation_dir,'toyger')
 
 
-#Let's find out the total number of horse and human images in the directories:
+#Let's find out the total number of images in the directories:
 print('total abyssian in training: ', len(os.listdir(train_a_dir)))
 print('total munchkin in training: ', len(os.listdir(train_m_dir)))
 print('total persian in training: ', len(os.listdir(train_p_dir)))
