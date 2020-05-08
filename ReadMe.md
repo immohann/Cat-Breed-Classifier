@@ -34,6 +34,7 @@ drive.mount('/content/drive')
 
 <!-- #region id="_SVhDjkNkdiQ" colab_type="text" -->
 ## 3.1 Loading Dataset:
+The Dataset is created manually by collecting the images from internet and then cleaning it to make suitable dataset
   Let's load the dataset from the directory and store the path in variable.
 
   Here the hirerarchy is: 
@@ -71,7 +72,7 @@ valid_p_dir=os.path.join(validation_dir,'persian')
 valid_t_dir=os.path.join(validation_dir,'toyger')
 
 
-#Let's find out the total number of horse and human images in the directories:
+#Let's find out the total number of images in the directories:
 print('total abyssian in training: ', len(os.listdir(train_a_dir)))
 print('total munchkin in training: ', len(os.listdir(train_m_dir)))
 print('total persian in training: ', len(os.listdir(train_p_dir)))
