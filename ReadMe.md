@@ -7,7 +7,7 @@
 ## 1. Aim
  To buid a classifier to categorize the breed of cats into 4 types:   'Abyssian',   'Munchkin',    'Persian',   'Toyger' on feeding the input image of a cat using Convolutional Neural Network with Tensorflow.
 
-Here is a link to refer a sample CNN implementation using TF: https://www.tensorflow.org/tutorials/images/cnn
+Here is a link to refer a sample of CNN implementation using TF: https://www.tensorflow.org/tutorials/images/cnn
 
 <!-- #endregion -->
 
