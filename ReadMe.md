@@ -34,7 +34,7 @@ drive.mount('/content/drive')
 
 <!-- #region id="_SVhDjkNkdiQ" colab_type="text" -->
 ## 3.1 Loading Dataset:
-The Dataset is created manually by collecting the images from internet and then cleaning it to make suitable dataset
+The Dataset is created manually by collecting the images from internet and then cleaning it to form a suitable dataset.
   Let's load the dataset from the directory and store the path in variable.
 
   Here the hirerarchy is: 
