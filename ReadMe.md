@@ -7,7 +7,8 @@ Here is a link to refer a sample of CNN implementation using TF: https://www.ten
 
 ![image](https://live.staticflickr.com/2866/10530413614_e72413d57c_b.jpg)
 
-1.   Cat Breed Classifier
+### Dataset details
+
     1. Cat-Breed-Classifier.ipynb
     2. Dataset
           1. Training:: 
