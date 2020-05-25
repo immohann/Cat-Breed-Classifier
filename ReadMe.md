@@ -70,7 +70,8 @@ Here is a link to refer a sample of CNN implementation using TF: https://www.ten
     Non-trainable params: 0
     
 ### Results
-
+![img]('res.png')
+![img]('res2.png')
       
 ### Go throuhg the notebook for the results 
 
