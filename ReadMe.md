@@ -69,13 +69,15 @@ Here is a link to refer a sample of CNN implementation using TF: https://www.ten
     Trainable params: 1,224,612
     Non-trainable params: 0
     
-### Results
+### Train Results
 <div align="center">
 <img src='res.png'></img>
+
+### Test Results
 <img src='res2.png'></img>
 </div>
       
-### Go throuhg the notebook for the results 
+### Go throuhg the notebook for the results details
 
 
 ```
